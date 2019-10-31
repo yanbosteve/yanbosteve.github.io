@@ -6,3 +6,4 @@ permalink: /Projects/
 
 ### Project List
 
+$ x = \frac{y}{2}$
